@@ -8,6 +8,7 @@
     tools:context=".SplashFragment">
 
     <TextView
+        android:id="@+id/textviewSplash"
         android:textStyle="bold"
         android:layout_marginTop="100dp"
         android:layout_centerHorizontal="true"
